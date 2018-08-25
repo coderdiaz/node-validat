@@ -1,0 +1,7 @@
+{
+  "name": "node-validations",
+  "version": "0.1.0",
+  "dependencies": {
+    "validatorjs": "^3.14.2"
+  }
+}
